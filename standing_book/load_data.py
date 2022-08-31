@@ -132,9 +132,7 @@ def load_base_info():
 
 if __name__ == '__main__':
     load_base_info()
-    # load_dict_all_2l_types()
-    # load_dict_asset()
-    # load_fp_cate()
+    load_fp_cate()
     #
     date_position = '2021-12-31'
     date_trade_start = '2022-01-01'
